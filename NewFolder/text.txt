@@ -1,1 +1,91 @@
-hello test
+interface abstact class differnce/similarity
+abstct class have constructer
+protected in child class
+new keyword in fun
+method shadowing
+extension menthod
+solid priciples
+dependency inversion
+constructer injection
+every time that condtructer call
+which constructer will call first in inheritance
+child class initialisation 
+static constructer
+managed and unmanged code
+filters in mvc
+types of routing
+routing vs route table
+why we use partial class
+out vs ref
+web api
+merge
+valuetype reference types
+string vs string builder
+boxing unboxing
+thread
+bind
+async await
+event deligate
+destructor
+idisposable
+icollection
+ilist
+ienumerable
+icollection
+design patterns
+solid principals
+timer
+static
+sqlexecution plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
